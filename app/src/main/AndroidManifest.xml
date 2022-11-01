@@ -17,7 +17,7 @@
             android:enabled="true"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.idnp.lab04"></action>
+                <action android:name="com.idnp.lab04.MY_MESSAGE"></action>
             </intent-filter>
         </receiver>
 
